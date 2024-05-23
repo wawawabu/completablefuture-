@@ -1,0 +1,29 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/
+# 忽略 Maven 相关文件和目录
+target/
+*.iml
+.idea_modules/
+out/
+
+# 忽略编译产物和日志文件
+*.class
+*.log
+
+# 忽略数据库文件
+*.db
+*.sqlite
+
+# 忽略自动生成的文件
+generated/
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
