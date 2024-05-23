@@ -11,6 +11,7 @@ public class YieldTest {
         String a = "hello";
         //System.out.println(intern == a);
         System.out.println(hello == a);
+        System.out.println("git test");
 /*        Person person = new Person();
         person.i = 110;
         Person clone = null;
